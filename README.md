@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I am Navaz 👋
 
+I am currently learning MLops.
+1. Started with [Machine Learning in Production](Machine Learning in Production)
 <!--
 **navaz059/navaz059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
