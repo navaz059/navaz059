@@ -1,7 +1,7 @@
 ## Hi there, I am Navaz 👋
 
 I am currently learning MLops.
-1. Started with [Machine Learning in Production](Machine Learning in Production)
+1. Started with [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/uoVS1/welcome)
 <!--
 **navaz059/navaz059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
